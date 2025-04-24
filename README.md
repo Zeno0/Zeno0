@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Zeno0
+- 👋 Hi, I’m @Shekhar 
 - 👀 I’m interested in machine learning, deep learning and the potential of quantum computing
-- 🌱 I’m currently learning quantum computing
-- 💞️ I’m looking to collaborate on digital arts for now
+- 🌱 I’m currently learning quantum computing and everything related to quantum
 
 
 <!---
